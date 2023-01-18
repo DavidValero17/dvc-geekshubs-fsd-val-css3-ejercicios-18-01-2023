@@ -1,0 +1,12 @@
+table {
+    border: solid black 1px;
+    width: 1500px;
+}
+
+td {
+    border: solid black 1px;
+}
+
+body {
+    text-align: center;
+}
