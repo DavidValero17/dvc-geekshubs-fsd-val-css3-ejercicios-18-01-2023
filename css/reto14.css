@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#contenedor {
+    background-image: url(../assets/paisaje.jpg);
+    height: 500px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table {
+    border: outset;
+    background-color: yellow;
+}
+
+td {
+    border: solid black 1px;
+    width: 200px;
+}
+
+th {
+    border: solid black 1px;
+    background-color: white;
+}
+
+.celdas {
+    background-color: yellow;
+}
