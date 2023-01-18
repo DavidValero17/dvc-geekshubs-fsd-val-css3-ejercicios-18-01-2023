@@ -1,12 +1,42 @@
 table {
     border: solid black 1px;
     width: 1500px;
+    border: outset;
 }
 
-td {
+th {
     border: solid black 1px;
 }
 
 body {
     text-align: center;
+}
+
+.celda1 {
+    background-color:lightgreen;    
+}
+
+.celda3 {
+    color: red;
+}
+
+.celda5 {
+    color: red;
+}
+
+.celda8 {
+    color: red;
+}
+
+.celda2 {
+    background-color: aquamarine;
+}
+
+.celda6 {
+    background-color: pink;
+}
+
+h1 {
+    font-size: large;
+    margin-bottom: 0;
 }
