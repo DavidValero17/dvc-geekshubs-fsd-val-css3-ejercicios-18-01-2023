@@ -1,0 +1,37 @@
+body {
+    background-image: url(../assets/ac.jpg);
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    border: solid black 1px;
+    float: left;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+#boxA {
+    background-image: url(../assets/back_mantel.jpg);
+}
+
+#boxB {
+    background-image: url(../assets/back_mantel.jpg);
+    background-clip: content-box;
+}
+
+#boxC {
+    background-image: url(../assets/back_mantel.jpg);
+    background-size: 100% 100%;
+}
+
+#boxD {
+    background-color: aliceblue;
+    background-image: url(../assets/back_mantel.jpg);
+    background-size: 80% 80%;
+    background-position: center;
+    background-repeat: no-repeat ;
+
+    
+}
